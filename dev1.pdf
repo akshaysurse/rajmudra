@@ -1,0 +1,5 @@
+ls
+mkdir dev1
+cd dev1
+ls
+
